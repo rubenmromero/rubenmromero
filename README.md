@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Here you can find tools and small projects implemented by me. Go in and feel free to help yourself!
+
+You can also find more scripts and functions in my [GitHub Gist profile](https://gist.github.com/rubenmromero).
+
+Last but not least, you can get more detailed information about my professional profile accessing my [Personal Site](https://www.rubenmromero.com/) built through [GitHub Pages](https://pages.github.com/) and hosted on [this repository](https://github.com/rubenmromero/rubenmromero.github.io).
+
 <!--
 **rubenmromero/rubenmromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
